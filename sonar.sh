@@ -1,0 +1,2 @@
+mvn clean install
+sonar-scanner -Dsonar.login=squ_91c0fab5c162a51e4b8495bacd1997d0de5a8406
